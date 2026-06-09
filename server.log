@@ -1,0 +1,18 @@
+
+> ai-shopping-copilot-server@1.0.0 start
+> node server.js
+
+✅ SQLite database initialized successfully
+
+🚀 Server running on http://localhost:5000
+📦 API Base: http://localhost:5000/api
+❤️  Health: http://localhost:5000/api/health
+
+2026-06-09T19:56:15.285Z | GET /api/products/1
+2026-06-09T19:56:15.290Z | GET /api/products/1
+2026-06-09T19:56:20.114Z | GET /api/categories
+2026-06-09T19:56:20.115Z | GET /api/products
+2026-06-09T19:56:20.117Z | GET /api/categories
+2026-06-09T19:56:20.118Z | GET /api/products
+2026-06-09T19:56:22.060Z | GET /api/ai/history
+2026-06-09T19:56:22.066Z | GET /api/ai/history
